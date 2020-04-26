@@ -2,6 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
+## the inverse function returns the inverse of the matrix 
 
 makeCacheMatrix <- function(a = matrix()) {
         inv <- NULL                            
