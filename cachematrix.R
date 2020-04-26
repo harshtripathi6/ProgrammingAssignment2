@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-## the inverse function returns the inverse of the matrix 
+## the inverse function returns the inverse of the matrix and the cache function creates a special "matrix" object that can cache its inverse
 
 makeCacheMatrix <- function(a = matrix()) {
         inv <- NULL                            
